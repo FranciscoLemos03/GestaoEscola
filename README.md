@@ -39,8 +39,8 @@ In addition, the script includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/FranciscoLemos03/GestaoEscola.git
+cd GestaoEscola
 ```
 
 ### 2. Open MySQL
